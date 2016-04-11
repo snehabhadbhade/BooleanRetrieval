@@ -1,0 +1,7 @@
+plastic
+shear
+plastic shear
+"plastic buckling"
+"plastic buckling" "shear stress"
+plastic AND shear
+"shear stress" AND plastic
